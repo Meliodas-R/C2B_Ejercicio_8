@@ -25,7 +25,7 @@ public class Pez extends Animal implements Mascota{
     
     @Override
     public void caminar(){
-        
+        System.out.println("El pez no camina, nada");
     }
 
     @Override
