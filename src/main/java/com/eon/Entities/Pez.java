@@ -4,7 +4,7 @@ public class Pez extends Animal implements Mascota{
 
     private String nombre;
 
-    public Pez(int piernas) {
+    public Pez(){
         super(0);
     }
 

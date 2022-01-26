@@ -10,7 +10,7 @@ public abstract class Animal {
     }
     
     public void caminar(){
-        System.out.println("Yo camino con " + patas);
+        System.out.println("Yo camino con " + patas + " patas");
     }
     
     public abstract void comer();
